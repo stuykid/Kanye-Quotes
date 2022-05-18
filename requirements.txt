@@ -1,0 +1,13 @@
+'''
+Create virtual environment in python. 
+-python3 -m venv project_name
+
+Activate virtual environment.
+-source project_pname/bin/activate
+
+Download and install libraries
+-pip install requests
+
+Program works better when using .gif images in place of .png images
+
+'''
